@@ -1,0 +1,6 @@
+tetris-os-master/
+bin/
+src/*.o
+boot.iso
+m
+.swap/
